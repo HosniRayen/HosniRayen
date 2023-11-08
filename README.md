@@ -16,7 +16,7 @@ Hello, I'm Rayen Hosni, a 21 student at Faculté des Sciences de Sfax, Universit
 
 ## Skills
 - 💻 Web Development/Mobile application development
-- 🌐 Music producing
+- 🌐 Music Production
 
 ## Contact
 - 📧 Email: hosnirayen@fss.u-sfax.tn
