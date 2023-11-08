@@ -1,6 +1,6 @@
 # Student Profile
 
-![Profile Image](profile-image.jpg)
+![Profile Image](https://github.com/HosniRayen/HosniRayen/assets/149911059/1707ed5f-41c2-40cf-894d-7b94fd3ee109)
 
 ## Introduction
 Hello, I'm [Rayen Hosni], a [21] student at [Faculté des Sciences de Sfax, Université de Sfax]. This repository serves as my student profile, where you can learn more about my academic journey, interests, and projects.
