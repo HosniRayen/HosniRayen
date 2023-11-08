@@ -1,16 +1,22 @@
-### Hi there 👋
+# Student Profile
 
-<!--
-**HosniRayen/HosniRayen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Image](profile-image.jpg)
 
-Here are some ideas to get you started:
+## Introduction
+Hello, I'm [Rayen Hosni], a [21] student at [Faculté des Sciences de Sfax, Université de Sfax]. This repository serves as my student profile, where you can learn more about my academic journey, interests, and projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 📚 Currently pursuing a degree in [software engineering and information systems].
+- 🌍 Passionate about [Software engineering/Chess/Music], with a strong desire to [Become a game developer].
+- 🎯 I'm always eager to learn and apply new skills.
+
+## Education
+- 🏫 [Faculté des Sciences de Sfax, Université de Sfax]: [Licence en Génie Logiciel et Systèmes d'Information] (Expected Graduation Year: [2024])
+- 🏫 [Lycée Sliman Ben Sliman, Zaghouan]: [Baccalauréat en Mathématiques] ([2021])
+
+## Skills
+- 💻 [Web Development/Mobile application development]
+- 🌐 [Music producing]
+
+## Contact
+- 📧 Email: [hosnirayen@fss.u-sfax.tn]
